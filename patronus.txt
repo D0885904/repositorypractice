@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 HARRY'S PATRONUS
+=======
+HARRY'S PATRONUS
+
+SNAPE'S PATRONUS
+>>>>>>> snape
